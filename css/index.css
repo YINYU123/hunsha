@@ -1,0 +1,171 @@
+.nav{
+	width: 100%;
+	height: 135px;/*
+	background-color: pink;*/
+}
+.nav-top{
+	width: 100%;
+	height: 40px;
+	background-color: #C2CBDA;
+}
+.nav-topaaa{
+	width: 227px;
+	height: 24px;/*
+	background-color: pink;*/
+	margin-left: 256px;
+	margin-top: 8px;
+	float: left;
+}
+.topaaa-a{
+	width: 94px;
+	height: 20px;
+	background-color: #fff;
+	margin-top: 2px;
+	float: left;
+}
+.topaaa-b{
+	width: 118px;
+	height: 100%;
+	float: right;
+}
+.b-aa{
+	width: 57px;
+	height: 100%;
+	background-color: pink;
+	float: left;
+}
+.b-bb{
+	width: 57px;
+	height: 100%;
+	background-color: pink;
+	float: right;
+	margin-right: 0;
+}
+.nav-topbbb{
+	width: 275px;
+	height: 20px;/*
+	background-color: pink;*/
+	margin-right: 259px;
+	margin-top: 10px;
+	float: right;
+}
+.nav-bottom{
+	width: 100%;
+	height: 95px;/*
+	background-color: #eee;*/
+}
+.nav-bottomaaa{
+	width: 159px;
+	height: 100%;/*
+	background-color: pink;*/
+	margin-left: 265px;
+	float: left;
+}
+.nav-bottombbb{
+	width: 478px;
+	height: 24px;/*
+	background-color: pink;*/
+	float: right;
+	margin-top: 55px;
+	margin-right: 260px;
+	/*设置弹性布局*/
+	display: flex;
+	/*设置内容换行*/
+	flex-wrap: wrap;
+	/*设置水平方向对齐方式*/
+	justify-content: space-between;
+	/*设置单行垂直对齐方式*/
+	/*align-items: center;*/
+	cursor: pointer;
+}
+.shoue{
+	width: 28px;
+	height: 100%;
+	margin-top: 0;
+}
+.nav-bottombbb a{
+	font-size: 14px;
+	margin-top: 2px; 
+}
+.bottombbb-b{
+	width: 26px;
+	height: 1px;
+	background-color: #000;
+/*	margin-top: : 74px;
+	margin-right: 260px;*/
+}
+.banner{
+	width: 100%;
+	height: 589px;
+	background-color: skyblue;
+}
+.neirong{
+	width: 100%;
+	height: 807px;
+	background-color: yellow;
+	position:relative;
+}
+/*.neirong img{
+	position:relative;
+}*/
+.neirong a{
+	left: 283px;
+	bottom: 196px;
+	position: absolute;
+}
+.item{
+	width: 443px;
+	height: 68px;
+	background-color: green;
+	margin-top: 117px;
+	margin-left: 462px;
+	position:relative;
+}
+.item a{
+	left: 278px;
+	top: 670px;
+	position: absolute;
+}
+.time1{
+	width: 100%;
+	height: 925px;
+	background-color: pink;
+}
+.jindian{
+	width: 475px;
+	height: 64px;
+	background-color: purple;
+	margin-top: 77px;
+	margin-left: 447px;
+}
+.chanp{
+	width: 100%;
+	height: 1237px;
+	background-color: orange;
+}
+.move{
+	width: 104px;
+	height: 38px;
+	background-color: pink;
+	margin-top: 47px;
+	margin-left: 635px;
+}
+.jingdian{
+	width: 447px;
+	height: 78px;
+	margin-top: 74px;
+	margin-left: 460px;
+	background-color: #eee;
+}
+.jingdian-neirong{
+	width: 842px;
+	height: 957px;
+	background-color: pink;
+	margin-left: 256px;
+}
+.food{
+	width: 100%;
+	height: 275px;
+	background-color: #eee;
+	margin-top: 103px;
+}
